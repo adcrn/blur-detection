@@ -1,5 +1,6 @@
 # UCF Senior Design 2017-18
 # Group 38
+# Author: Nhi Nguyen
 
 import cv2
 import numpy as np
